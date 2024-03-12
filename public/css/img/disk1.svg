@@ -1,0 +1,15 @@
+<svg width="140" height="195" viewBox="0 0 140 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="2.25" y="157.25" width="135.5" height="31.5" rx="10.75" fill="white" stroke="black" stroke-width="4.5"/>
+<path d="M51 179V169H57V171H59V177H57V179H51ZM53 177H56.92V171H53V177ZM63 179V169H65V179H63ZM71 171V169H77V171H71ZM75 177V175H71V173H69V171H71V173H75V175H77V177H75ZM69 179V177H75V179H69ZM81 179V169H83V173H85V175H87V177H89V179H87V177H85V175H83V179H81ZM87 171V169H89V171H87ZM85 173V171H87V173H85Z" fill="black"/>
+<path d="M70.0134 125.394C99.3315 125.394 123.137 101.973 123.137 73.0347C123.137 44.0964 99.3315 20.6754 70.0134 20.6754C40.6954 20.6754 16.8899 44.0964 16.8899 73.0347C16.8899 101.973 40.6954 125.394 70.0134 125.394Z" fill="#E03942" stroke="black" stroke-width="3.01105"/>
+<path d="M28.6591 106.65L54.9548 82.5978L61.6628 87.9428L44.9349 120.013L28.6591 106.65Z" fill="#D9D9D9"/>
+<path d="M98.2834 26.9213L78.0711 55.9632L69.9151 53.2139L74.3218 19.7947L98.2834 26.9213Z" fill="#D9D9D9"/>
+<ellipse cx="70.2528" cy="72.7988" rx="54.2528" ry="53.4496" stroke="black" stroke-width="3.16475"/>
+<ellipse cx="70.2528" cy="72.7988" rx="18.0843" ry="17.8165" fill="#FCB827" stroke="black" stroke-width="4.55101"/>
+<ellipse cx="70.2529" cy="72.7988" rx="9.04213" ry="8.90826" fill="#039DDB" stroke="black" stroke-width="4.55101"/>
+<line x1="2.2755" y1="-2.2755" x2="33.9785" y2="-2.2755" transform="matrix(-0.748231 0.663438 -0.674463 -0.738309 54.6417 81.707)" stroke="black" stroke-width="4.55101" stroke-linecap="round"/>
+<line x1="2.2755" y1="-2.2755" x2="34.9025" y2="-2.2755" transform="matrix(-0.41346 0.910522 -0.915064 -0.40331 59.1626 86.1611)" stroke="black" stroke-width="4.55101" stroke-linecap="round"/>
+<line x1="2.2755" y1="-2.2755" x2="33.6432" y2="-2.2755" transform="matrix(-0.125869 0.992047 -0.992502 -0.122226 72.9653 19.3492)" stroke="black" stroke-width="4.55101" stroke-linecap="round"/>
+<line x1="2.2755" y1="-2.2755" x2="35.203" y2="-2.2755" transform="matrix(-0.554902 0.831915 -0.839434 -0.543461 97.3793 25.585)" stroke="black" stroke-width="4.55101" stroke-linecap="round"/>
+<line x1="2.2755" y1="-2.2755" x2="34.2376" y2="-2.2755" transform="matrix(-0.79245 0.609936 -0.62134 -0.783541 110.942 37.1658)" stroke="black" stroke-width="4.55101" stroke-linecap="round"/>
+</svg>
